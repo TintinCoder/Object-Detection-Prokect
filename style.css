@@ -42,3 +42,8 @@ a {
     font-weight: bolder;
     font-family: 'Baloo Bhai 2', cursive;
 }
+
+canvas {
+    border: 1px solid black;
+    border-radius: 15px;
+}
